@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(lab9md LANGUAGES CXX)
+project(markdown_reader LANGUAGES CXX)
 
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTOUIC ON)
